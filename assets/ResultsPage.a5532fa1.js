@@ -1,0 +1,1 @@
+import{Q as e}from"./QPage.972a1b92.js";import{_ as t,q as o,s as a,t as s,x as r}from"./index.bd74fd42.js";import"./render.1776bbaf.js";const c={},_=r(" Hello World ");function n(p,d,i,f,l,m){return o(),a(e,{padding:""},{default:s(()=>[_]),_:1})}var g=t(c,[["render",n]]);export{g as default};
